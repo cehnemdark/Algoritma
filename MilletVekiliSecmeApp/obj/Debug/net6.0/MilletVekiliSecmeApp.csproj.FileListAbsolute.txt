@@ -1,0 +1,15 @@
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\bin\Debug\net6.0\MilletVekiliSecmeApp.exe
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\bin\Debug\net6.0\MilletVekiliSecmeApp.deps.json
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\bin\Debug\net6.0\MilletVekiliSecmeApp.runtimeconfig.json
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\bin\Debug\net6.0\MilletVekiliSecmeApp.dll
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\bin\Debug\net6.0\MilletVekiliSecmeApp.pdb
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\obj\Debug\net6.0\MilletVekiliSecmeApp.csproj.AssemblyReference.cache
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\obj\Debug\net6.0\MilletVekiliSecmeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\obj\Debug\net6.0\MilletVekiliSecmeApp.AssemblyInfoInputs.cache
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\obj\Debug\net6.0\MilletVekiliSecmeApp.AssemblyInfo.cs
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\obj\Debug\net6.0\MilletVekiliSecmeApp.csproj.CoreCompileInputs.cache
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\obj\Debug\net6.0\MilletVekiliSecmeApp.dll
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\obj\Debug\net6.0\refint\MilletVekiliSecmeApp.dll
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\obj\Debug\net6.0\MilletVekiliSecmeApp.pdb
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\obj\Debug\net6.0\MilletVekiliSecmeApp.genruntimeconfig.cache
+D:\AlgoritmaDersleri\Algoritma\MilletVekiliSecmeApp\obj\Debug\net6.0\ref\MilletVekiliSecmeApp.dll

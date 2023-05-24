@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\bin\Debug\net6.0\SayiTekmiCİftMi.exe
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\bin\Debug\net6.0\SayiTekmiCİftMi.deps.json
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\bin\Debug\net6.0\SayiTekmiCİftMi.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\bin\Debug\net6.0\SayiTekmiCİftMi.dll
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\bin\Debug\net6.0\SayiTekmiCİftMi.pdb
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\obj\Debug\net6.0\SayiTekmiCİftMi.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\obj\Debug\net6.0\SayiTekmiCİftMi.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\obj\Debug\net6.0\SayiTekmiCİftMi.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\obj\Debug\net6.0\SayiTekmiCİftMi.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\obj\Debug\net6.0\SayiTekmiCİftMi.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\obj\Debug\net6.0\SayiTekmiCİftMi.dll
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\obj\Debug\net6.0\refint\SayiTekmiCİftMi.dll
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\obj\Debug\net6.0\SayiTekmiCİftMi.pdb
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\obj\Debug\net6.0\SayiTekmiCİftMi.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\SayiTekmiCİftMi\obj\Debug\net6.0\ref\SayiTekmiCİftMi.dll

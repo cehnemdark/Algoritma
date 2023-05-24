@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\bin\Debug\net6.0\GunsayisiToplam.exe
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\bin\Debug\net6.0\GunsayisiToplam.deps.json
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\bin\Debug\net6.0\GunsayisiToplam.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\bin\Debug\net6.0\GunsayisiToplam.dll
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\bin\Debug\net6.0\GunsayisiToplam.pdb
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\obj\Debug\net6.0\GunsayisiToplam.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\obj\Debug\net6.0\GunsayisiToplam.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\obj\Debug\net6.0\GunsayisiToplam.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\obj\Debug\net6.0\GunsayisiToplam.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\obj\Debug\net6.0\GunsayisiToplam.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\obj\Debug\net6.0\GunsayisiToplam.dll
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\obj\Debug\net6.0\refint\GunsayisiToplam.dll
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\obj\Debug\net6.0\GunsayisiToplam.pdb
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\obj\Debug\net6.0\GunsayisiToplam.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\GunsayisiToplam\obj\Debug\net6.0\ref\GunsayisiToplam.dll

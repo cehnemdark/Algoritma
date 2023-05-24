@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\bin\Debug\net6.0\WhileDonguler.exe
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\bin\Debug\net6.0\WhileDonguler.deps.json
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\bin\Debug\net6.0\WhileDonguler.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\bin\Debug\net6.0\WhileDonguler.dll
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\bin\Debug\net6.0\WhileDonguler.pdb
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\WhileDonguler.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\WhileDonguler.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\WhileDonguler.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\WhileDonguler.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\WhileDonguler.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\WhileDonguler.dll
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\refint\WhileDonguler.dll
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\WhileDonguler.pdb
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\WhileDonguler.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\ref\WhileDonguler.dll

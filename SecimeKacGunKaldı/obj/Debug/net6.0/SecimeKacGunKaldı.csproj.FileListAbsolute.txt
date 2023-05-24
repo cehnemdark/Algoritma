@@ -1,0 +1,15 @@
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\bin\Debug\net6.0\SecimeKacGunKaldı.exe
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\bin\Debug\net6.0\SecimeKacGunKaldı.deps.json
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\bin\Debug\net6.0\SecimeKacGunKaldı.runtimeconfig.json
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\bin\Debug\net6.0\SecimeKacGunKaldı.dll
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\bin\Debug\net6.0\SecimeKacGunKaldı.pdb
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\obj\Debug\net6.0\SecimeKacGunKaldı.csproj.AssemblyReference.cache
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\obj\Debug\net6.0\SecimeKacGunKaldı.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\obj\Debug\net6.0\SecimeKacGunKaldı.AssemblyInfoInputs.cache
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\obj\Debug\net6.0\SecimeKacGunKaldı.AssemblyInfo.cs
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\obj\Debug\net6.0\SecimeKacGunKaldı.csproj.CoreCompileInputs.cache
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\obj\Debug\net6.0\SecimeKacGunKaldı.dll
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\obj\Debug\net6.0\refint\SecimeKacGunKaldı.dll
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\obj\Debug\net6.0\SecimeKacGunKaldı.pdb
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\obj\Debug\net6.0\SecimeKacGunKaldı.genruntimeconfig.cache
+D:\AlgoritmaDersleri\Algoritma\SecimeKacGunKaldı\obj\Debug\net6.0\ref\SecimeKacGunKaldı.dll

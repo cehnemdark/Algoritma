@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\AtmApp\obj\Debug\net6.0\AtmApp.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\AtmApp\obj\Debug\net6.0\AtmApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\AtmApp\obj\Debug\net6.0\AtmApp.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\AtmApp\obj\Debug\net6.0\AtmApp.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\AtmApp\obj\Debug\net6.0\AtmApp.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\AtmApp\bin\Debug\net6.0\AtmApp.exe
+E:\AlgoritmaDersleri\Algoritma\AtmApp\bin\Debug\net6.0\AtmApp.deps.json
+E:\AlgoritmaDersleri\Algoritma\AtmApp\bin\Debug\net6.0\AtmApp.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\AtmApp\bin\Debug\net6.0\AtmApp.dll
+E:\AlgoritmaDersleri\Algoritma\AtmApp\bin\Debug\net6.0\AtmApp.pdb
+E:\AlgoritmaDersleri\Algoritma\AtmApp\obj\Debug\net6.0\AtmApp.dll
+E:\AlgoritmaDersleri\Algoritma\AtmApp\obj\Debug\net6.0\refint\AtmApp.dll
+E:\AlgoritmaDersleri\Algoritma\AtmApp\obj\Debug\net6.0\AtmApp.pdb
+E:\AlgoritmaDersleri\Algoritma\AtmApp\obj\Debug\net6.0\AtmApp.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\AtmApp\obj\Debug\net6.0\ref\AtmApp.dll

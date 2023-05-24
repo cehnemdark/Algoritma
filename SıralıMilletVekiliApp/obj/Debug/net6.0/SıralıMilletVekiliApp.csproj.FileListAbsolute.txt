@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\bin\Debug\net6.0\SıralıMilletVekiliApp.exe
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\bin\Debug\net6.0\SıralıMilletVekiliApp.deps.json
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\bin\Debug\net6.0\SıralıMilletVekiliApp.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\bin\Debug\net6.0\SıralıMilletVekiliApp.dll
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\bin\Debug\net6.0\SıralıMilletVekiliApp.pdb
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\obj\Debug\net6.0\SıralıMilletVekiliApp.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\obj\Debug\net6.0\SıralıMilletVekiliApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\obj\Debug\net6.0\SıralıMilletVekiliApp.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\obj\Debug\net6.0\SıralıMilletVekiliApp.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\obj\Debug\net6.0\SıralıMilletVekiliApp.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\obj\Debug\net6.0\SıralıMilletVekiliApp.dll
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\obj\Debug\net6.0\refint\SıralıMilletVekiliApp.dll
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\obj\Debug\net6.0\SıralıMilletVekiliApp.pdb
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\obj\Debug\net6.0\SıralıMilletVekiliApp.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\SıralıMilletVekiliApp\obj\Debug\net6.0\ref\SıralıMilletVekiliApp.dll

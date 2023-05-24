@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\bin\Debug\net6.0\BuyukmuKucukMu.exe
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\bin\Debug\net6.0\BuyukmuKucukMu.deps.json
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\bin\Debug\net6.0\BuyukmuKucukMu.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\bin\Debug\net6.0\BuyukmuKucukMu.dll
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\bin\Debug\net6.0\BuyukmuKucukMu.pdb
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\obj\Debug\net6.0\BuyukmuKucukMu.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\obj\Debug\net6.0\BuyukmuKucukMu.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\obj\Debug\net6.0\BuyukmuKucukMu.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\obj\Debug\net6.0\BuyukmuKucukMu.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\obj\Debug\net6.0\BuyukmuKucukMu.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\obj\Debug\net6.0\BuyukmuKucukMu.dll
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\obj\Debug\net6.0\refint\BuyukmuKucukMu.dll
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\obj\Debug\net6.0\BuyukmuKucukMu.pdb
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\obj\Debug\net6.0\BuyukmuKucukMu.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\BuyukmuKucukMu\obj\Debug\net6.0\ref\BuyukmuKucukMu.dll

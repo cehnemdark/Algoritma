@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\bin\Debug\net6.0\KanGrubu.exe
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\bin\Debug\net6.0\KanGrubu.deps.json
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\bin\Debug\net6.0\KanGrubu.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\bin\Debug\net6.0\KanGrubu.dll
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\bin\Debug\net6.0\KanGrubu.pdb
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\obj\Debug\net6.0\KanGrubu.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\obj\Debug\net6.0\KanGrubu.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\obj\Debug\net6.0\KanGrubu.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\obj\Debug\net6.0\KanGrubu.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\obj\Debug\net6.0\KanGrubu.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\obj\Debug\net6.0\KanGrubu.dll
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\obj\Debug\net6.0\refint\KanGrubu.dll
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\obj\Debug\net6.0\KanGrubu.pdb
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\obj\Debug\net6.0\KanGrubu.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\KanGrubu\obj\Debug\net6.0\ref\KanGrubu.dll

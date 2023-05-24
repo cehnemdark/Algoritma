@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\Methodss\bin\Debug\net6.0\Methodss.exe
+E:\AlgoritmaDersleri\Algoritma\Methodss\bin\Debug\net6.0\Methodss.deps.json
+E:\AlgoritmaDersleri\Algoritma\Methodss\bin\Debug\net6.0\Methodss.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\Methodss\bin\Debug\net6.0\Methodss.dll
+E:\AlgoritmaDersleri\Algoritma\Methodss\bin\Debug\net6.0\Methodss.pdb
+E:\AlgoritmaDersleri\Algoritma\Methodss\obj\Debug\net6.0\Methodss.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\Methodss\obj\Debug\net6.0\Methodss.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\Methodss\obj\Debug\net6.0\Methodss.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\Methodss\obj\Debug\net6.0\Methodss.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\Methodss\obj\Debug\net6.0\Methodss.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\Methodss\obj\Debug\net6.0\Methodss.dll
+E:\AlgoritmaDersleri\Algoritma\Methodss\obj\Debug\net6.0\refint\Methodss.dll
+E:\AlgoritmaDersleri\Algoritma\Methodss\obj\Debug\net6.0\Methodss.pdb
+E:\AlgoritmaDersleri\Algoritma\Methodss\obj\Debug\net6.0\Methodss.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\Methodss\obj\Debug\net6.0\ref\Methodss.dll

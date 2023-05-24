@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\bin\Debug\net6.0\CevreUzuluguHesaplama.exe
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\bin\Debug\net6.0\CevreUzuluguHesaplama.deps.json
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\bin\Debug\net6.0\CevreUzuluguHesaplama.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\bin\Debug\net6.0\CevreUzuluguHesaplama.dll
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\bin\Debug\net6.0\CevreUzuluguHesaplama.pdb
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\obj\Debug\net6.0\CevreUzuluguHesaplama.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\obj\Debug\net6.0\CevreUzuluguHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\obj\Debug\net6.0\CevreUzuluguHesaplama.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\obj\Debug\net6.0\CevreUzuluguHesaplama.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\obj\Debug\net6.0\CevreUzuluguHesaplama.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\obj\Debug\net6.0\CevreUzuluguHesaplama.dll
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\obj\Debug\net6.0\refint\CevreUzuluguHesaplama.dll
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\obj\Debug\net6.0\CevreUzuluguHesaplama.pdb
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\obj\Debug\net6.0\CevreUzuluguHesaplama.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\CevreUzuluguHesaplama\obj\Debug\net6.0\ref\CevreUzuluguHesaplama.dll

@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\obj\Debug\net6.0\HızVeZamanHesaplama.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\obj\Debug\net6.0\HızVeZamanHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\obj\Debug\net6.0\HızVeZamanHesaplama.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\obj\Debug\net6.0\HızVeZamanHesaplama.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\obj\Debug\net6.0\HızVeZamanHesaplama.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\bin\Debug\net6.0\HızVeZamanHesaplama.exe
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\bin\Debug\net6.0\HızVeZamanHesaplama.deps.json
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\bin\Debug\net6.0\HızVeZamanHesaplama.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\bin\Debug\net6.0\HızVeZamanHesaplama.dll
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\bin\Debug\net6.0\HızVeZamanHesaplama.pdb
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\obj\Debug\net6.0\HızVeZamanHesaplama.dll
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\obj\Debug\net6.0\refint\HızVeZamanHesaplama.dll
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\obj\Debug\net6.0\HızVeZamanHesaplama.pdb
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\obj\Debug\net6.0\HızVeZamanHesaplama.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\HızVeZamanHesaplama\obj\Debug\net6.0\ref\HızVeZamanHesaplama.dll

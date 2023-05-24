@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\bin\Debug\net6.0\DogumYılıHesapla.exe
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\bin\Debug\net6.0\DogumYılıHesapla.deps.json
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\bin\Debug\net6.0\DogumYılıHesapla.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\bin\Debug\net6.0\DogumYılıHesapla.dll
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\bin\Debug\net6.0\DogumYılıHesapla.pdb
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\obj\Debug\net6.0\DogumYılıHesapla.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\obj\Debug\net6.0\DogumYılıHesapla.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\obj\Debug\net6.0\DogumYılıHesapla.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\obj\Debug\net6.0\DogumYılıHesapla.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\obj\Debug\net6.0\DogumYılıHesapla.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\obj\Debug\net6.0\DogumYılıHesapla.dll
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\obj\Debug\net6.0\refint\DogumYılıHesapla.dll
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\obj\Debug\net6.0\DogumYılıHesapla.pdb
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\obj\Debug\net6.0\DogumYılıHesapla.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\DogumYılıHesapla\obj\Debug\net6.0\ref\DogumYılıHesapla.dll

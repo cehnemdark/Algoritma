@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\bin\Debug\net6.0\AsalSayıProgramı.exe
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\bin\Debug\net6.0\AsalSayıProgramı.deps.json
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\bin\Debug\net6.0\AsalSayıProgramı.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\bin\Debug\net6.0\AsalSayıProgramı.dll
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\bin\Debug\net6.0\AsalSayıProgramı.pdb
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\AsalSayıProgramı.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\AsalSayıProgramı.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\AsalSayıProgramı.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\AsalSayıProgramı.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\AsalSayıProgramı.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\AsalSayıProgramı.dll
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\refint\AsalSayıProgramı.dll
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\AsalSayıProgramı.pdb
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\AsalSayıProgramı.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\AsalSayıProgramı\obj\Debug\net6.0\ref\AsalSayıProgramı.dll

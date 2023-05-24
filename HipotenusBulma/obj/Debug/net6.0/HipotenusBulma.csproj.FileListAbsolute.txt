@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\bin\Debug\net6.0\HipotenusBulma.exe
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\bin\Debug\net6.0\HipotenusBulma.deps.json
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\bin\Debug\net6.0\HipotenusBulma.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\bin\Debug\net6.0\HipotenusBulma.dll
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\bin\Debug\net6.0\HipotenusBulma.pdb
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\obj\Debug\net6.0\HipotenusBulma.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\obj\Debug\net6.0\HipotenusBulma.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\obj\Debug\net6.0\HipotenusBulma.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\obj\Debug\net6.0\HipotenusBulma.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\obj\Debug\net6.0\HipotenusBulma.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\obj\Debug\net6.0\HipotenusBulma.dll
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\obj\Debug\net6.0\refint\HipotenusBulma.dll
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\obj\Debug\net6.0\HipotenusBulma.pdb
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\obj\Debug\net6.0\HipotenusBulma.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\HipotenusBulma\obj\Debug\net6.0\ref\HipotenusBulma.dll

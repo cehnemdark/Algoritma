@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\bin\Debug\net6.0\IsMatrisBigNumber.exe
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\bin\Debug\net6.0\IsMatrisBigNumber.deps.json
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\bin\Debug\net6.0\IsMatrisBigNumber.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\bin\Debug\net6.0\IsMatrisBigNumber.dll
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\bin\Debug\net6.0\IsMatrisBigNumber.pdb
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\obj\Debug\net6.0\IsMatrisBigNumber.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\obj\Debug\net6.0\IsMatrisBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\obj\Debug\net6.0\IsMatrisBigNumber.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\obj\Debug\net6.0\IsMatrisBigNumber.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\obj\Debug\net6.0\IsMatrisBigNumber.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\obj\Debug\net6.0\IsMatrisBigNumber.dll
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\obj\Debug\net6.0\refint\IsMatrisBigNumber.dll
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\obj\Debug\net6.0\IsMatrisBigNumber.pdb
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\obj\Debug\net6.0\IsMatrisBigNumber.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\IsMatrisBigNumber\obj\Debug\net6.0\ref\IsMatrisBigNumber.dll

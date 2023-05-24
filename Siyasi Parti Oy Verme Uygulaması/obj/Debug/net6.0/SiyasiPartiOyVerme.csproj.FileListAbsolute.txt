@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\bin\Debug\net6.0\SiyasiPartiOyVerme.exe
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\bin\Debug\net6.0\SiyasiPartiOyVerme.deps.json
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\bin\Debug\net6.0\SiyasiPartiOyVerme.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\bin\Debug\net6.0\SiyasiPartiOyVerme.dll
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\bin\Debug\net6.0\SiyasiPartiOyVerme.pdb
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\obj\Debug\net6.0\SiyasiPartiOyVerme.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\obj\Debug\net6.0\SiyasiPartiOyVerme.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\obj\Debug\net6.0\SiyasiPartiOyVerme.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\obj\Debug\net6.0\SiyasiPartiOyVerme.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\obj\Debug\net6.0\SiyasiPartiOyVerme.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\obj\Debug\net6.0\SiyasiPartiOyVerme.dll
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\obj\Debug\net6.0\refint\SiyasiPartiOyVerme.dll
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\obj\Debug\net6.0\SiyasiPartiOyVerme.pdb
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\obj\Debug\net6.0\SiyasiPartiOyVerme.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\Siyasi Parti Oy Verme Uygulaması\obj\Debug\net6.0\ref\SiyasiPartiOyVerme.dll

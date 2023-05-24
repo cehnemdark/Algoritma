@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\bin\Debug\net6.0\Aray -  MinusandPlus.exe
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\bin\Debug\net6.0\Aray -  MinusandPlus.deps.json
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\bin\Debug\net6.0\Aray -  MinusandPlus.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\bin\Debug\net6.0\Aray -  MinusandPlus.dll
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\bin\Debug\net6.0\Aray -  MinusandPlus.pdb
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\obj\Debug\net6.0\Aray -  MinusandPlus.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\obj\Debug\net6.0\Aray -  MinusandPlus.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\obj\Debug\net6.0\Aray -  MinusandPlus.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\obj\Debug\net6.0\Aray -  MinusandPlus.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\obj\Debug\net6.0\Aray -  MinusandPlus.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\obj\Debug\net6.0\Aray -  MinusandPlus.dll
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\obj\Debug\net6.0\refint\Aray -  MinusandPlus.dll
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\obj\Debug\net6.0\Aray -  MinusandPlus.pdb
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\obj\Debug\net6.0\Aray -  MinusandPlus.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\Aray -  Minus and Plus\obj\Debug\net6.0\ref\Aray -  MinusandPlus.dll

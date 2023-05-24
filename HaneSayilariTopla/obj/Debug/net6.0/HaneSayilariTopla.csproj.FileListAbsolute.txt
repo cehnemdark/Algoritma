@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\bin\Debug\net6.0\HaneSayilariTopla.exe
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\bin\Debug\net6.0\HaneSayilariTopla.deps.json
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\bin\Debug\net6.0\HaneSayilariTopla.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\bin\Debug\net6.0\HaneSayilariTopla.dll
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\bin\Debug\net6.0\HaneSayilariTopla.pdb
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\obj\Debug\net6.0\HaneSayilariTopla.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\obj\Debug\net6.0\HaneSayilariTopla.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\obj\Debug\net6.0\HaneSayilariTopla.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\obj\Debug\net6.0\HaneSayilariTopla.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\obj\Debug\net6.0\HaneSayilariTopla.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\obj\Debug\net6.0\HaneSayilariTopla.dll
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\obj\Debug\net6.0\refint\HaneSayilariTopla.dll
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\obj\Debug\net6.0\HaneSayilariTopla.pdb
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\obj\Debug\net6.0\HaneSayilariTopla.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\HaneSayilariTopla\obj\Debug\net6.0\ref\HaneSayilariTopla.dll

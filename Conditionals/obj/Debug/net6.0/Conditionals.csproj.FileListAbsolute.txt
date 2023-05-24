@@ -1,0 +1,15 @@
+E:\AlgoritmaDersleri\Algoritma\Conditionals\bin\Debug\net6.0\Conditionals.exe
+E:\AlgoritmaDersleri\Algoritma\Conditionals\bin\Debug\net6.0\Conditionals.deps.json
+E:\AlgoritmaDersleri\Algoritma\Conditionals\bin\Debug\net6.0\Conditionals.runtimeconfig.json
+E:\AlgoritmaDersleri\Algoritma\Conditionals\bin\Debug\net6.0\Conditionals.dll
+E:\AlgoritmaDersleri\Algoritma\Conditionals\bin\Debug\net6.0\Conditionals.pdb
+E:\AlgoritmaDersleri\Algoritma\Conditionals\obj\Debug\net6.0\Conditionals.csproj.AssemblyReference.cache
+E:\AlgoritmaDersleri\Algoritma\Conditionals\obj\Debug\net6.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlgoritmaDersleri\Algoritma\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfoInputs.cache
+E:\AlgoritmaDersleri\Algoritma\Conditionals\obj\Debug\net6.0\Conditionals.AssemblyInfo.cs
+E:\AlgoritmaDersleri\Algoritma\Conditionals\obj\Debug\net6.0\Conditionals.csproj.CoreCompileInputs.cache
+E:\AlgoritmaDersleri\Algoritma\Conditionals\obj\Debug\net6.0\Conditionals.dll
+E:\AlgoritmaDersleri\Algoritma\Conditionals\obj\Debug\net6.0\refint\Conditionals.dll
+E:\AlgoritmaDersleri\Algoritma\Conditionals\obj\Debug\net6.0\Conditionals.pdb
+E:\AlgoritmaDersleri\Algoritma\Conditionals\obj\Debug\net6.0\Conditionals.genruntimeconfig.cache
+E:\AlgoritmaDersleri\Algoritma\Conditionals\obj\Debug\net6.0\ref\Conditionals.dll
